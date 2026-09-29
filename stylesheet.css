@@ -10,16 +10,16 @@ p {
 
 .cuthill {
   background-color: yellow;
-  align-items: center;
-  display: flex;
-  justify-content: center;
-  margin:0;
-  padding:0;
   text-align: center;
 }
-.cuthill img{
-  display:block;
+
+.cuthill a {
+  display: block;
+  margin-bottom: 10px;
 }
-.cuthill a{
-  width:100%;
-  display: flex;
+
+.cuthill img {
+  display: inline-block;
+  width: 32%;
+  height: 210px;
+}
