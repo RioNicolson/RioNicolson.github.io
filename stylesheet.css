@@ -8,7 +8,9 @@ p {
   color: red;
 }
 
-#cuthill {
+.cuthill {
   background-color: yellow;
   align-items: center;
+  display: flex;
+  justify-content: center;
 }
