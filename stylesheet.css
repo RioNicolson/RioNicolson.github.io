@@ -3,9 +3,11 @@ body {
 }
 h1 {
   color: blue;
+  text-align:center;
 }
-p {
+h2 {
   color: black;
+  text-align: center;
 }
 
 .cuthill {
