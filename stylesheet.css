@@ -39,6 +39,11 @@ h2 {
   margin-bottom: 10px;
   width:100%;
 }
+.shaders a {
+  display: block;
+  margin-bottom: 10px;
+  width:100%;
+}
 
 .shaders img {
   display: inline-block;
