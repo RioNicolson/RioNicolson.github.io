@@ -24,3 +24,22 @@ p {
   width: 32%;
   height: 210px;
 }
+
+
+
+.cuthill {
+  background-color: green;
+  text-align: center;
+}
+
+.cuthill p {
+  display: block;
+  margin-bottom: 10px;
+  width:100%;
+}
+
+.cuthill img {
+  display: inline-block;
+  width: 32%;
+  height: 210px;
+}
